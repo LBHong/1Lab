@@ -18,7 +18,7 @@ public class GraphVizTest {
         	}
         	i1++;
         }
-//        gViz.addln("A;");
+
 //        gViz.addln("B;");
 //        gViz.addln("C;");
 //        gViz.addln("D;");
