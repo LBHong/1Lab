@@ -1,4 +1,5 @@
 package สตั้าป;
+// the second change
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,7 +38,7 @@ public class main1 {
 		createDirectedGraph(file);
 		
 		int i=1;
-		
+		//System.out.println(graph.node);
 		//System.out.println(graph.edg);
 //		while(graph.list[i]!=null)
 //		{

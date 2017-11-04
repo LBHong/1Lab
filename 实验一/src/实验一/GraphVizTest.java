@@ -1,4 +1,5 @@
 package สตั้าป;
+// the second change
 
 import java.io.IOException;
 
@@ -18,7 +19,7 @@ public class GraphVizTest {
         	}
         	i1++;
         }
-
+//        gViz.addln("A;");
 //        gViz.addln("B;");
 //        gViz.addln("C;");
 //        gViz.addln("D;");
